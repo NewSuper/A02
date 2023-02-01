@@ -1,4 +1,4 @@
-package com.xxx.demo.first
+package com.xxx.demo.game
 
 import java.security.SecureRandom
 

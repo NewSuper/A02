@@ -1,4 +1,4 @@
-package com.xxx.demo.first.util
+package com.xxx.demo.game.util
 
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.runtime.Composable
